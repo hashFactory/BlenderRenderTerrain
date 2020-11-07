@@ -89,6 +89,7 @@ else:
 print("Started importing " + obj_name)
 imported_obj = get_obj_from_name(obj_name)
 print("Finished importing")
+
 """
 # get dim of object and set ratio
 x, y, z = imported_obj.dimensions
